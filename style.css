@@ -1,0 +1,16 @@
+a {
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 900;
+    font-size: larger;
+    color: rgb(60, 0, 60);
+}
+
+h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    color: rgb(28, 5, 5);
+}
+
+* {
+    background-color: aliceblue;
+}

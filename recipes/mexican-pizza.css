@@ -1,0 +1,29 @@
+h1 {
+    text-align: center;
+    font-size: 50px;
+}
+
+img {
+    /* to center image */
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.list,
+.steps,
+p {
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 590;
+    color: rgb(31, 7, 53);
+}
+
+h2 {
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(6, 6, 37);
+}
+
+* {
+    background-color: azure;
+}
