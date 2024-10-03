@@ -1,8 +1,5 @@
-a {
-    font-family: 'Courier New', Courier, monospace;
-    font-weight: 900;
-    font-size: larger;
-    color: rgb(60, 0, 60);
+* {
+    background-color: aliceblue;
 }
 
 h1 {
@@ -11,6 +8,12 @@ h1 {
     color: rgb(28, 5, 5);
 }
 
-* {
-    background-color: aliceblue;
+a {
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 900;
+    font-size: larger;
+    color: rgb(60, 0, 60);
 }
+
+
+
